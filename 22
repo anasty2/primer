@@ -1,0 +1,6 @@
+/* index.css */
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: palevioletred;
+}
